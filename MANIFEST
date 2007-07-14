@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Bundle-CompleteCatalyst.t
+lib/Bundle/CompleteCatalyst.pm
+META.yml                                 Module meta-data (added by MakeMaker)
